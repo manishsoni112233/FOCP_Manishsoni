@@ -1,0 +1,116 @@
+[2024-12-29 13:12:20.314077] User: tell me about library
+[2024-12-29 13:12:20.314120] Bot: The library is open from 9 AM to 9 PM.
+[2024-12-29 13:12:43.820904] User: what is the process of scholarship
+[2024-12-29 13:12:43.820923] Bot: That’s a great question! Let me find out.
+[2024-12-29 13:13:00.087062] User: tell me about scholarshio
+[2024-12-29 13:13:00.087093] Bot: I'm here to help, but could you provide more details?
+[2024-12-29 13:15:57.030745] User: tell me about transport system
+[2024-12-29 13:15:57.030856] Bot: We have a shuttle service connecting major parts of the city to the campus.
+[2024-12-29 13:16:37.739884] User: tell me about library
+[2024-12-29 13:16:37.739922] Bot:  
+[2024-12-29 13:16:47.693587] User: about library
+[2024-12-29 13:16:47.693602] Bot: r
+[2024-12-29 13:16:49.498938] User: 
+[2024-12-29 13:16:49.498953] Bot: I'm not sure about that. Could you clarify?
+[2024-12-29 13:16:59.057104] User: libra
+[2024-12-29 13:16:59.057126] Bot: I don't have that information right now, but I'll make a note of it!
+[2025-01-11 06:02:29] User: tell me about library
+[2025-01-11 06:02:29] Bot:  
+[2025-01-11 06:02:34] User: about library
+[2025-01-11 06:02:34] Bot:  
+[2025-01-11 06:03:17] User: 
+[2025-01-11 06:03:17] Bot: Hmm, that's beyond my expertise.
+[2025-01-11 06:03:20] User: 
+[2025-01-11 06:03:20] Bot: Could you explain that a bit more?
+[2025-01-11 06:03:25] User: 
+[2025-01-11 06:03:25] Bot: I'm here to help, but could you provide more details?
+[2025-01-11 06:03:32] User: library
+[2025-01-11 06:03:32] Bot: T
+[2025-01-11 06:03:34] User: 
+[2025-01-11 06:03:34] Bot: That’s a great question! Let me find out.
+[2025-01-11 06:03:35] User: 
+[2025-01-11 06:03:35] Bot: Hmm, that's beyond my expertise.
+[2025-01-11 06:03:36] User: 
+[2025-01-11 06:03:36] Bot: Interesting question! Let me check.
+[2025-01-11 06:03:36] User: 
+[2025-01-11 06:03:36] Bot: Hmm, that's beyond my expertise.
+[2025-01-11 06:03:37] User: 
+[2025-01-11 06:03:37] Bot: I'm not sure about that, but I recommend checking the official website.
+[2025-01-11 06:03:37] User: 
+[2025-01-11 06:03:37] Bot: I'm not sure about that, but I recommend checking the official website.
+[2025-01-11 06:03:37] User: 
+[2025-01-11 06:03:37] Bot: Interesting question! Let me check.
+[2025-01-11 06:03:56] User: fees
+[2025-01-11 06:03:56] Bot: The annual tuition fee is $10,000.
+[2025-01-11 06:04:04] User: about library
+[2025-01-11 06:04:04] Bot: The library is open from 9 AM to 9 PM.
+[2025-01-11 06:05:12] User: tell me about library
+[2025-01-11 06:05:12] Bot: The library is open from 9 AM to 9 PM.
+[2025-01-11 06:05:24] User: fees for student
+[2025-01-11 06:05:24] Bot: The annual tuition fee is $10,000.
+[2025-01-11 06:07:56] User: tell me about library
+[2025-01-11 06:07:56] Bot: The library, situated at the heart of the campus, is open from 9 AM to 9 PM. It provides quiet study areas, group study rooms, and access to online databases.
+[2025-01-11 06:09:58] User: about library
+[2025-01-11 06:09:58] Bot: Our main library, a hub of resources, is open from 9 AM to 9 PM. It offers study spaces, computer labs, and an extensive collection of books and journals.
+[2025-01-11 06:10:22] User: about library
+[2025-01-11 06:10:22] Bot: Our main library, a hub of resources, is open from 9 AM to 9 PM. It offers study spaces, computer labs, and an extensive collection of books and journals.
+[2025-01-11 06:14:04] User: tell me about library
+[2025-01-11 06:14:04] Bot: The library, situated at the heart of the campus, is open from 9 AM to 9 PM. It provides quiet study areas, group study rooms, and access to online databases. It's a great place to focus on your studies.
+[2025-01-11 06:16:19] User: tell me about library
+[2025-01-11 06:16:19] Bot: Our main library, a hub of resources, is open from 9 AM to 9 PM. It offers study spaces, computer labs, and an extensive collection of books and journals. You can also find quiet study areas and group study rooms.
+[2025-01-11 06:16:42] User: yes tell me about scholarship programs
+[2025-01-11 06:16:42] Bot: Oops! I've been disconnected. Please try again later.
+[2025-01-11 06:17:00] User: tell me about scholarship
+[2025-01-11 06:17:00] Bot: I don't have that information right now, but I'll make a note of it!
+[2025-01-11 06:17:08] User: about campus event
+[2025-01-11 06:17:08] Bot: Oops! I've been disconnected. Please try again later.
+[2025-01-11 06:20:45] User: tell me about library
+[2025-01-11 06:20:45] Bot: The library, situated at the heart of the campus, is open from 9 AM to 9 PM. It provides quiet study areas, group study rooms, and access to online databases. It's a great place to focus on your studies.
+[2025-01-11 06:20:50] User: yes
+[2025-01-11 06:20:50] Bot: I'm not sure about that, but I recommend checking the official website.
+[2025-01-11 06:20:56] User: car parking
+[2025-01-11 06:20:56] Bot: Parking facilities are available for students with a valid permit. Permits can be purchased at the security office. Ensure you park in designated areas to avoid penalties.
+[2025-01-11 06:21:10] User: about campus library hours
+[2025-01-11 06:21:10] Bot: Our main library, a hub of resources, is open from 9 AM to 9 PM. It offers study spaces, computer labs, and an extensive collection of books and journals. You can also find quiet study areas and group study rooms.
+[2025-01-11 06:21:18] User: about student parking
+[2025-01-11 06:21:18] Bot: Parking facilities are available for students with a valid permit. Permits can be purchased at the security office. Ensure you park in designated areas to avoid penalties.
+[2025-01-11 06:21:28] User: upcoming campus event
+[2025-01-11 06:21:28] Bot: I'm here to help, but could you provide more details?
+[2025-01-11 06:21:36] User: scholarship program
+[2025-01-11 06:21:36] Bot: Oops! I've been disconnected. Please try again later.
+[2025-01-11 06:21:49] User: about scholarship program
+[2025-01-11 06:21:49] Bot: Interesting question! Let me check.
+[2025-01-11 06:22:00] User: anout student parking
+[2025-01-11 06:22:00] Bot: Parking facilities are available for students with a valid permit. Permits can be purchased at the security office. Ensure you park in designated areas to avoid penalties.
+[2025-01-11 06:22:58] User: about library
+[2025-01-11 06:22:58] Bot: I'm here to help, but could you provide more details?
+[2025-01-11 06:23:09] User: tell me about library
+[2025-01-11 06:23:09] Bot: I'm here to help, but could you provide more details?
+[2025-01-11 06:23:21] User: about library
+[2025-01-11 06:23:21] Bot: I'm not sure I understand that. Could you clarify?
+[2025-01-11 06:24:20] User: tell me about library
+[2025-01-11 06:24:20] Bot: Our main library, a hub of resources, is open from 9 AM to 9 PM. It offers study spaces, computer labs, and an extensive collection of books and journals. You can also find quiet study areas and group study rooms.
+[2025-01-11 06:24:52] User: about library
+[2025-01-11 06:24:52] Bot: I don't have that information right now, but I'll make a note of it!
+[2025-01-14 16:53:03] User: what is chat
+[2025-01-14 16:53:03] Bot: Interesting question! Let me check.
+[2025-01-14 16:53:26] User: fifth
+[2025-01-14 16:53:26] Bot: I'm not sure about that, but I recommend checking the official website.
+[2025-01-14 16:53:37] User: yes
+[2025-01-14 16:53:37] Bot: I'm not sure about that, but I recommend checking the official website.
+[2025-01-14 16:54:10] User: would you like to know about our scholarship programs
+[2025-01-14 16:54:10] Bot: I'm here to help, but could you provide more details?
+[2025-01-14 16:54:47] User: housing
+[2025-01-14 16:54:47] Bot: Explore on-campus and off-campus housing options. Our housing office can help you find the perfect place to live during your studies. Visit the housing website for more information.
+[2025-01-14 16:54:57] User: weather
+[2025-01-14 16:54:57] Bot: Keep an eye on the weather! Visit the university website for updates on weather conditions and any campus closures.
+[2025-01-14 16:55:11] User: what is weather now?
+[2025-01-14 16:55:11] Bot: Stay updated with the latest weather conditions. Check the university website for weather alerts and campus closures due to severe weather.
+[2025-01-14 16:55:42] User: what is about wifi
+[2025-01-14 16:55:42] Bot: Our campus provides high-speed Wi-Fi access in all buildings. Connect to the 'CampusNet' network using your student credentials. For assistance, contact IT support.
+[2025-01-14 17:42:25] User: tell me about course
+[2025-01-14 17:42:25] Bot: I'm not sure I understand that. Could you clarify?
+[2025-01-14 17:42:35] User: course material
+[2025-01-14 17:42:35] Bot: I don't have that information right now, but I'll make a note of it!
+[2025-01-14 17:42:50] User: textbook
+[2025-01-14 17:42:50] Bot: Interesting question! Let me check.

@@ -1,0 +1,216 @@
+{
+  "agent_names": ["Alex", "Sam", "Taylor", "Jordan", "Morgan", "Chris", "Jamie", "Casey", "Riley", "Cameron"],
+  "keywords": {
+    "coffee": [
+      "The campus coffee bar, located in the student center, is open from 8 AM to 6 PM. They offer a variety of drinks, including espresso, cappuccino, and lattes, as well as a selection of pastries and snacks.",
+      "Need a caffeine boost? The campus coffee bar operates from 8 AM to 6 PM and serves a selection of beverages and pastries. It's the perfect spot to grab a quick coffee between classes."
+    ],
+    "library": [
+      "Our main library, a hub of resources, is open from 9 AM to 9 PM. It offers study spaces, computer labs, and an extensive collection of books and journals. You can also find quiet study areas and group study rooms.",
+      "The library, situated at the heart of the campus, is open from 9 AM to 9 PM. It provides quiet study areas, group study rooms, and access to online databases. It's a great place to focus on your studies."
+    ],
+    "courses": [
+      "We offer a variety of courses across arts, science, and technology. Check the course catalog on our website for detailed information about each program, including prerequisites and course descriptions.",
+      "Our diverse course offerings include programs in arts, sciences, and technology. Visit our website to explore the full list of available courses, and find out more about the curriculum and faculty."
+    ],
+    "fees": [
+      "The annual tuition fee is $10,000. This does not include additional costs such as books, accommodation, and other personal expenses. Financial aid and scholarship options are available to help manage costs.",
+      "Tuition fees are set at $10,000 per year. Please note that this amount covers tuition only and additional fees may apply for books, lab materials, and other expenses."
+    ],
+    "admissions": [
+      "Admissions are currently open for the upcoming semester. You can apply online through our admissions portal on the university website. Make sure to check the application deadlines and required documents.",
+      "We are accepting applications for the next semester. Visit the admissions section of our website to start your application process, and find out more about our admission criteria and procedures."
+    ],
+    "scholarships": [
+      "We offer a range of merit-based and need-based scholarships. For more details, visit the financial aid section on our website. Scholarships can help cover tuition fees and other expenses.",
+      "Scholarships are available to both new and continuing students. Check out the scholarships page on our website for eligibility criteria, application deadlines, and the types of scholarships we offer."
+    ],
+    "sports": [
+      "Our campus sports facilities include football, basketball, tennis, and swimming. Join one of our teams or enjoy a workout at our gym. We also have intramural sports leagues for students of all skill levels.",
+      "We offer excellent sports facilities, including courts for football, basketball, and tennis, as well as an Olympic-sized swimming pool. Whether you're a competitive athlete or just looking to stay active, we've got you covered."
+    ],
+    "hostel": [
+      "The hostel provides both single and shared rooms, with amenities like Wi-Fi, 24/7 security, and a common lounge area. It's a great place to socialize and make new friends.",
+      "Our hostel accommodations include single and shared rooms, equipped with high-speed internet, security services, and a common area for socializing. It's a comfortable and safe living environment for students."
+    ],
+    "faculty": [
+      "Our faculty comprises experienced professionals and researchers dedicated to providing quality education and mentorship. They bring a wealth of knowledge and real-world experience to the classroom.",
+      "Learn from the best! Our faculty members are leaders in their fields, bringing a wealth of knowledge and real-world experience to the classroom. They are committed to helping you succeed academically and professionally."
+    ],
+    "events": [
+      "Upcoming campus events include the annual cultural fest and a tech symposium. Check the events calendar on our website for more details about dates, times, and how to participate.",
+      "Don't miss out on our upcoming events such as the cultural fest and tech symposium. Visit the events page for schedules, details, and information on how you can get involved."
+    ],
+    "parking": [
+      "Student parking is available on campus with a valid parking permit. Permits can be obtained from the campus security office. Make sure to follow parking regulations to avoid fines.",
+      "Parking facilities are available for students with a valid permit. Permits can be purchased at the security office. Ensure you park in designated areas to avoid penalties."
+    ],
+    "location": [
+      "Our campus is centrally located in Poppleton city, easily accessible by public transport. Check the map on our website for directions and nearby amenities.",
+      "Situated in the heart of Poppleton city, our campus is well-connected by public transportation. Visit our website for a detailed map and directions, as well as information on local attractions."
+    ],
+    "exam": [
+      "Final exams are scheduled for the first two weeks of December. Make sure to check the timetable on the student portal for specific dates and times.",
+      "Exams are held in the first two weeks of December. Please refer to the exam timetable available on the student portal for specific dates and times. Good luck with your studies!"
+    ],
+    "transport": [
+      "Our shuttle service connects major parts of the city to the campus. Check the shuttle schedule on our website for timings and routes. It's a convenient way to get around.",
+      "We offer a convenient shuttle service that links key areas of the city with the campus. Find the schedule and routes on our website, and make your commute easier."
+    ],
+    "cafeteria": [
+      "The campus cafeteria serves a variety of meals, including vegetarian and vegan options. It's open from 7 AM to 8 PM. Enjoy delicious and healthy food at affordable prices.",
+      "Our cafeteria offers a wide range of meals, from breakfast to dinner, including vegetarian and vegan options. It's open from 7 AM to 8 PM, providing a convenient dining option for students."
+    ],
+    "gym": [
+      "The campus gym is equipped with modern fitness equipment and is open from 6 AM to 10 PM. Whether you're into weightlifting, cardio, or group classes, we've got something for everyone.",
+      "Stay fit and healthy at our campus gym, open from 6 AM to 10 PM. We offer a variety of fitness equipment, group classes, and personal training sessions. Come and join us for a workout!"
+    ],
+    "counseling": [
+      "Our counseling center provides support for students dealing with stress, anxiety, and other personal issues. Schedule an appointment with one of our counselors for confidential help.",
+      "The campus counseling center is here to support your mental health and well-being. Our professional counselors offer confidential sessions to help you manage stress, anxiety, and other challenges."
+    ],
+    "career": [
+      "The career services office offers resources for job search, resume writing, and interview preparation. Visit us to explore career opportunities and get guidance from our advisors.",
+      "Our career services team is here to help you succeed. We offer workshops, one-on-one advising, and job search resources to prepare you for your career. Stop by our office for more information."
+    ],
+    "internship": [
+      "We have partnerships with various companies to provide internship opportunities for students. Check the internship board on our website for current openings and application details.",
+      "Gain practical experience through our internship programs. We work with leading companies to offer internships that provide valuable hands-on experience. Visit the internship board for more information."
+    ],
+    "research": [
+      "Our university supports a wide range of research initiatives. Students are encouraged to participate in research projects and collaborate with faculty members. Find out more on our research page.",
+      "Engage in cutting-edge research at our university. We offer opportunities for students to work on research projects across various disciplines. Visit our research page to learn more."
+    ],
+    "volunteer": [
+      "Get involved in the community by joining our volunteer programs. We have partnerships with local organizations that offer various volunteer opportunities. Check the volunteer page for details.",
+      "Make a difference by participating in our volunteer programs. We collaborate with local organizations to provide meaningful volunteer opportunities. Visit the volunteer page for more information."
+    ],
+    "library resources": [
+      "Our library offers a vast collection of books, journals, and digital resources. You can access online databases, e-books, and academic journals. Visit the library website for more information.",
+      "Explore the extensive resources available at our library, including books, journals, and digital media. Access online databases and e-books through the library portal."
+    ],
+    "study abroad": [
+      "Interested in studying abroad? Our university offers exchange programs with partner institutions around the world. Visit the study abroad office for more information on available programs.",
+      "Expand your horizons with our study abroad programs. We have partnerships with universities globally, offering exchange opportunities. Visit the study abroad office to learn more."
+    ],
+    "clubs": [
+      "Join one of our many student clubs and organizations. Whether you're interested in sports, arts, or academic pursuits, there's something for everyone. Check the clubs directory on our website.",
+      "Get involved on campus by joining a student club or organization. We offer a wide range of clubs catering to various interests. Visit the clubs directory to find out more."
+    ],
+    "health services": [
+      "Our campus health center provides medical services, including check-ups, vaccinations, and mental health support. Schedule an appointment through the health center's website.",
+      "The health center offers comprehensive medical services to students. From routine check-ups to mental health support, we're here to help. Book an appointment online."
+    ],
+    "financial aid": [
+      "Need help with tuition? Our financial aid office offers assistance with scholarships, grants, and loans. Visit our website to learn more about available financial aid options.",
+      "Explore financial aid options to help cover your education costs. We offer scholarships, grants, and loans. Contact the financial aid office for guidance and support."
+    ],
+    "student support": [
+      "Our student support services include academic advising, counseling, and career guidance. Visit the student support center for assistance with any challenges you may face.",
+      "We're here to support you! Our student support services offer academic advising, counseling, and career guidance. Visit the student support center for help."
+    ],
+    "academic advising": [
+      "Meet with an academic advisor to plan your course schedule and discuss your academic goals. Advisors are available by appointment. Schedule a session through the advising office.",
+      "Our academic advisors are here to help you succeed. Schedule an appointment to discuss your course schedule, academic goals, and any questions you may have."
+    ],
+    "housing": [
+      "Explore on-campus and off-campus housing options. Our housing office can help you find the perfect place to live during your studies. Visit the housing website for more information.",
+      "Looking for a place to stay? Our housing office offers assistance with on-campus and off-campus housing options. Check the housing website for details."
+    ],
+    "IT support": [
+      "Having technical issues? Our IT support team is here to help. Contact the IT helpdesk for assistance with computer problems, software issues, and network connectivity.",
+      "Get help with technical problems from our IT support team. Whether it's a computer issue or network connectivity, we're here to assist. Reach out to the IT helpdesk for support."
+    ],
+    "bookstore": [
+      "The campus bookstore offers textbooks, school supplies, and university merchandise. Visit the bookstore website to check the availability of required textbooks and make purchases online.",
+      "Shop for textbooks, supplies, and university merchandise at our campus bookstore. Visit the bookstore website to browse available items and make online purchases."
+    ],
+    "alumni": [
+      "Stay connected with our alumni network. Join the alumni association to keep in touch with former classmates and participate in alumni events. Visit the alumni website for more information.",
+      "Our alumni network is a great way to stay connected after graduation. Join the alumni association to participate in events and networking opportunities. Visit the alumni website for details."
+    ],
+    "graduation": [
+      "Graduation ceremonies are held at the end of each semester. Make sure to apply for graduation and check the ceremony schedule on the graduation page of our website.",
+      "Prepare for your big day! Graduation ceremonies are held at the end of each semester. Apply for graduation and find ceremony details on our website."
+    ],
+    "lost and found": [
+      "Lost something on campus? Check the lost and found office located in the student center. You can also report lost items through the campus security office.",
+      "If you've lost an item on campus, visit the lost and found office in the student center. You can also report lost items to campus security."
+    ],
+    "emergency": [
+      "In case of an emergency, contact campus security immediately. Emergency contact numbers are posted around campus and available on the security office website.",
+      "For emergencies, reach out to campus security. Emergency contact numbers are available on the security office website and posted around campus."
+    ],
+    "weather": [
+      "Stay updated with the latest weather conditions. Check the university website for weather alerts and campus closures due to severe weather.",
+      "Keep an eye on the weather! Visit the university website for updates on weather conditions and any campus closures."
+    ],
+    "transportation": [
+      "Our campus is accessible by various modes of transportation, including buses, trains, and bicycles. Check the transportation page on our website for more information on routes and schedules.",
+      "Get around easily with our transportation options. Visit the transportation page for information on bus routes, train schedules, and bike paths."
+    ],
+    "dining": [
+      "Enjoy a variety of dining options on campus. From cafes to full-service restaurants, there's something for everyone. Check the dining section on our website for menus and opening hours.",
+      "Explore our on-campus dining options. We have cafes, fast food, and full-service restaurants to suit every taste. Visit the dining section for menus and hours."
+    ],
+    "events calendar": [
+      "Stay informed about upcoming events by checking the events calendar on our website. From academic seminars to social gatherings, there's always something happening on campus.",
+      "Never miss an event! Check the events calendar on our website for information on academic seminars, social gatherings, and more."
+    ],
+    "student organizations": [
+      "Join one of our many student organizations to meet new people and get involved on campus. From academic clubs to cultural groups, there's something for everyone. Visit the student organizations page for more details.",
+      "Get involved on campus by joining a student organization. We have academic clubs, cultural groups, and more. Visit the student organizations page to find out more."
+    ],
+    "academic calendar": [
+      "Keep track of important dates with our academic calendar. It includes information on semester start and end dates, holidays, and exam periods. Check the academic calendar on our website.",
+      "Stay organized with our academic calendar. It lists semester dates, holidays, and exam periods. Visit the academic calendar page for details."
+    ],
+    "registration": [
+      "Register for classes through the student portal. Make sure to check the registration dates and deadlines. Contact the registrar's office if you need assistance.",
+      "Sign up for classes via the student portal. Be aware of registration dates and deadlines. For help, contact the registrar's office."
+    ],
+    "library hours": [
+      "The library is open from 9 AM to 9 PM on weekdays and 10 AM to 6 PM on weekends. Check the library website for any changes in hours during holidays and exam periods.",
+      "Library hours are 9 AM to 9 PM on weekdays and 10 AM to 6 PM on weekends. Visit the library website for holiday and exam period schedules."
+    ],
+    "student ID": [
+      "Your student ID card grants you access to various campus facilities. If you lose your ID, report it immediately to the campus security office and request a replacement.",
+      "Don't forget your student ID card! It provides access to campus facilities. Report lost IDs to campus security and request a replacement."
+    ],
+    "study spaces": [
+      "Find quiet study spaces in the library and various study lounges around campus. Group study rooms can be booked online through the library website.",
+      "Need a place to study? Quiet study spaces and group study rooms are available in the library and around campus. Book rooms online through the library website."
+    ],
+    "printing": [
+      "Printing services are available in the library and computer labs. You can print documents using your student ID card. Check the printing guidelines on the IT support page.",
+      "Print documents in the library and computer labs using your student ID card. Visit the IT support page for printing guidelines."
+    ],
+    "wifi": [
+      "Our campus provides high-speed Wi-Fi access in all buildings. Connect to the 'CampusNet' network using your student credentials. For assistance, contact IT support.",
+      "Enjoy high-speed Wi-Fi access across campus. Connect to 'CampusNet' with your student credentials. Contact IT support for help."
+    ],
+    "course materials": [
+      "Course materials, including textbooks and online resources, can be found on the course management system. Check with your instructors for specific requirements.",
+      "Find course materials on the course management system. Your instructors will provide details on required textbooks and online resources."
+    ],
+    "academic support": [
+      "Academic support services, including tutoring and writing assistance, are available to help you succeed. Visit the academic support center for more information.",
+      "Need help with your studies? Our academic support center offers tutoring and writing assistance. Visit us for more information."
+    ],
+    "extracurricular activities": [
+      "Participate in extracurricular activities to enhance your university experience. We offer sports, arts, and various student-led initiatives. Check the extracurricular activities page for more details.",
+      "Get involved in extracurricular activities to make the most of your time at university. Explore sports, arts, and student-led initiatives on the extracurricular activities page."
+    ],
+    "student portal": [
+      "Access the student portal for important information, including grades, course registration, and financial aid. Visit the student portal login page on our website.",
+      "The student portal is your go-to source for grades, course registration, and financial aid information. Log in through the student portal page on our website."
+    ],
+    "faculty directory": [
+      "Find contact information for faculty members in the faculty directory. Visit the directory page on our website to get in touch with your instructors.",
+      "Looking for a faculty member? The faculty directory lists contact information for all instructors. Visit the directory page to find your professors."
+    ],
+    "student handbook": [
+      "The student handbook contains important policies and guidelines. Make sure to read it to understand your rights and responsibilities. Access the handbook on our website.",
+      "Stay informed about university policies with the student handbook. It outlines your rights and responsibilities. Access the handbook online."
+    ]
+  }}
